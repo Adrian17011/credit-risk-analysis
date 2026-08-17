@@ -284,7 +284,7 @@ All KPIs and visualizations respond dynamically to the selected filters.
 
 ## 🖼️ Dashboard Preview
 
-![Credit Risk Dashboard](images/credit_risk_dashboard.png)
+![Credit Risk Dashboard](images/creditrisk1.png)
 
 ---
 
